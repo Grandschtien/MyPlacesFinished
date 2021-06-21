@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+Realm in Pods
+RealmSwift in Pods, depends on:
+Realm in Pods (explicit)
+Pods-MyPlaces in Pods, depends on:
+Realm in Pods (explicit)
+RealmSwift in Pods (explicit)
